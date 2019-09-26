@@ -1,4 +1,4 @@
-# Understanding the differences between ACT and SAT enrollment in American States
+# A Glance at the Differences between ACT and SAT Enrollment in America
 This project is a part of the curriculum for General Assembly Data Science Immersive.
 
 #### -- Project Status: [Completed]
@@ -34,13 +34,9 @@ The purpose of this project is to explore the data obtained for participation of
 ## Getting Started
 
 1. Please clone this repository before using it. 
-2. Datasets are kept in .csv files that are contained in [here](Repo folder containing raw data) within this repo.   
-3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
-4. etc...
+2. Datasets are kept in .csv files that are contained in [../data/]within this repo.   
+3. Data processing/transformation scripts are being kept [../code/]
 
-*If your project is well underway and setup is fairly complicated (ie. requires installation of many packages) create another "setup.md" file and link to it here*  
-
-5. Follow setup [instructions](Link to file)
 
 ## Resulting Data Dictionary
 
