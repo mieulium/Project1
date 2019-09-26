@@ -34,7 +34,7 @@ The purpose of this project is to explore the data obtained for participation of
 ## Getting Started
 
 1. Please clone this repository before using it. 
-2. Datasets are kept in .csv files that are contained in [../data/]within this repo.   
+2. Datasets are kept in .csv files that are contained in [../code/]within this repo.   
 3. Data processing/transformation scripts are being kept [../code/]
 
 
